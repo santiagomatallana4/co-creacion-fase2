@@ -10,7 +10,7 @@ En esta fase, se implementó **Flask** como framework principal del proyecto. De
 
 - **Edición del JSON**: El archivo JSON fue editado manualmente para agregar imágenes y hacer el contenido más atractivo, mejorando la presentación visual de las especies invasoras.
 
-##Registro Fotográfico
+### Registro Fotográfico
 ![webscrapping](https://github.com/santiagomatallana4/co-creacion-fase2/blob/main/fase2/1.png)
 ![webscrapping](https://github.com/santiagomatallana4/co-creacion-fase2/blob/main/fase2/2.png)
 ![webscrapping](https://github.com/santiagomatallana4/co-creacion-fase2/blob/main/fase2/3.png)
