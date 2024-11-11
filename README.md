@@ -14,7 +14,7 @@ Una vez clonado el proyecto se deben ejecutar los siguientes pasos:
   - pip install flask
   - pip install pandas
   - pip install plotly
--Y finalmente ejecutar el siguiente comando: Python app.py
+- Y finalmente ejecutar el siguiente comando: Python app.py
 
 ### Avances
 
