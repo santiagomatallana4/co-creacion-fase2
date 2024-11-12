@@ -1,7 +1,3 @@
-## Co-Creación Fase II: Implementación de Flask y Web Scraping
-
-En esta fase, se implementó **Flask** como framework principal del proyecto. Debido a problemas con las rutas en la carga dinámica del **header** y **footer** utilizando JavaScript, se optó por reemplazarlo con **Jinja**, lo que permitió cargar de manera eficiente y sin errores los componentes comunes entre las páginas.
-
 ## Clonado y correcta ejecución del proyecto
 Una vez clonado el proyecto se deben ejecutar los siguientes pasos:
 - **Tener instalado Python**: Asegurarse de que Python este instalado en el equipo.
@@ -15,6 +11,10 @@ Una vez clonado el proyecto se deben ejecutar los siguientes pasos:
   - pip install pandas
   - pip install plotly
 - Y finalmente ejecutar el siguiente comando: Python app.py
+
+## Co-Creación Fase II: Implementación de Flask y Web Scraping
+
+En esta fase, se implementó **Flask** como framework principal del proyecto. Debido a problemas con las rutas en la carga dinámica del **header** y **footer** utilizando JavaScript, se optó por reemplazarlo con **Jinja**, lo que permitió cargar de manera eficiente y sin errores los componentes comunes entre las páginas.
 
 ### Avances
 
